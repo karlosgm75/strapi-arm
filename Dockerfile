@@ -1,4 +1,4 @@
-FROM node:erbium-buster
+FROM node:14.18.3-buster
 
 EXPOSE 1337
 
